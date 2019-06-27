@@ -12,7 +12,7 @@ up.sh <kube-context>
 play.sh <kube-context>
 ```
 
-## iear down
+## tear down
 ```
 down.sh
 ```
